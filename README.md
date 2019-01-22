@@ -1,4 +1,4 @@
-# buhcg
+# KassBox-client
 
 > A Vue.js project
 

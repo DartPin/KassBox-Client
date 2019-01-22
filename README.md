@@ -14,7 +14,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-Серверная часть этого проекта находиться по ссылке
+Серверная часть этого проекта находиться по ссылке - https://github.com/DartPin/KassBox-Server
 
 В данном проекте на базе VueJS, Axios и JS реализован аналог бухгалтерии по учету наличных средств.
 
